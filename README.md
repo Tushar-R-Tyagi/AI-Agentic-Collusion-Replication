@@ -88,7 +88,7 @@ eval-awareness counts come from keyword matching, not a validated judge.
 
 All run on a CPU Colab runtime, keep results on Drive, and go SMOKE (1 episode) → PILOT (1 trajectory) → BASELINE
 (`N_TRAJ` trajectories). Each mode must pass before the next, with the same configuration hash. Every request passes
-a budget gate.
+a budget gate (I am just a student :)).
 
 | Notebook | Purpose |
 |---|---|
