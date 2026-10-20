@@ -4,7 +4,6 @@ Pre-sprint work for the Apart Research AI Collusion Research Sprint (Oct 23–25
 
 Built on the harness from Shi, Zhang & Yang (2026), *Emergent Collusion in Long-Horizon LLM Agent Interaction*
 ([paper](https://arxiv.org/abs/2609.24967) · [code](https://github.com/SALT-NLP/agent-collusion), MIT).
-Notes on the paper: [docs/paper-summary.md](docs/paper-summary.md). Day-by-day record: [docs/progress-log.md](docs/progress-log.md).
 
 ## The setup
 
