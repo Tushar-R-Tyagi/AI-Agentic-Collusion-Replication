@@ -98,9 +98,6 @@ a budget gate.
 | [`escalation_deepseek_v41_flash.ipynb`](notebooks/escalation_deepseek_v41_flash.ipynb) | Escalation arms; set `ESCALATE_REWARD` (step 4b patches the harness and hashes the patch) |
 | [`logrolling_deepseek_v41_flash.ipynb`](notebooks/logrolling_deepseek_v41_flash.ipynb) | Separate acceptance reward, verdict review off |
 
-Earlier notebooks, not run to completion: `replication_qwen27b.ipynb` (self-hosted vLLM),
-`replication_claude_api.ipynb`, `phase1_model_screening.ipynb`. The original grader-family design is on hold:
-[docs/grader-family-pilot.md](docs/grader-family-pilot.md).
 
 ## Citation
 
