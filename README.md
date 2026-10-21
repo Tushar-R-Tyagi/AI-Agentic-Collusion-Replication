@@ -83,7 +83,7 @@ eval-awareness counts come from keyword matching, not a validated judge.
 5. **Game-theory variants:** random audits with a penalty, a bonus for catching a peer's wrong work, a known final
    episode.
 6. **Other models**, to check the interventions are not specific to DeepSeek.
-
+7. Two tests that I want to do first are a) do the baseline run with the reviewer mode off b) remove the escalate option in the seperate reward case.
 ## Notebooks
 
 All run on a CPU Colab runtime, keep results on Drive, and go SMOKE (1 episode) → PILOT (1 trajectory) → BASELINE
