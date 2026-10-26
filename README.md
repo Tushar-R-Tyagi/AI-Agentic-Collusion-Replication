@@ -5,6 +5,8 @@ Pre-sprint work for the Apart Research AI Collusion Research Sprint (Oct 23–25
 Built on the harness from Shi, Zhang & Yang (2026), *Emergent Collusion in Long-Horizon LLM Agent Interaction*
 ([paper](https://arxiv.org/abs/2609.24967) · [code](https://github.com/SALT-NLP/agent-collusion), MIT).
 
+**Continuation:** the sprint project that builds on this work is [mutual-accept-audit](https://github.com/Tushar-R-Tyagi/mutual-accept-audit). It adds an asymmetric-feedback test, a planted-coordination positive control, and five audit checks for collusion claims. This link was added after the sprint; nothing else in this repository has changed since before it.
+
 ## The setup
 
 Two agents each solve a task, exchange evidence over a narrow channel (5 rounds × 200 characters), then accept or
